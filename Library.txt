@@ -1,0 +1,39 @@
+Song Name = Shape of You. | Artists = Ed Sheeran. | Duration(in seconds) = 233 |
+Song Name = Tum Hi Ho. | Artists = Arijit Singh. | Duration(in seconds) = 262 |
+Song Name = Night Changes. | Artists = One Direction. | Duration(in seconds) = 229 |
+Song Name = Counting Stars. | Artists = OneRepublic. | Duration(in seconds) = 257 |
+Song Name = Story of My Life. | Artists = One Direction. | Duration(in seconds) = 250 |
+Song Name = What Makes You Beautiful. | Artists = One Direction. | Duration(in seconds) = 220 |
+Song Name = Steal My Girl. | Artists = One Direction. | Duration(in seconds) = 240 |
+Song Name = Kala Chashma. | Artists = Amar Arshi, Badshah. | Duration(in seconds) = 155 |
+Song Name = Zaalima. | Artists = Arijit Singh, Harshdeep Kaur. | Duration(in seconds) = 253 |
+Song Name = Happy. | Artists = Pharrell Williams. | Duration(in seconds) = 233 |
+Song Name = Paris in the Rain. | Artists = Lauv. | Duration(in seconds) = 230 |
+Song Name = I Like Me Better. | Artists = Lauv. | Duration(in seconds) = 197 |
+Song Name = Perfect. | Artists = Ed Sheeran. | Duration(in seconds) = 263 |
+Song Name = Preet Re. | Artists = Jasleen Royal. | Duration(in seconds) = 230 |
+Song Name = Ghungroo. | Artists = Arijit Singh, Shilpa Rao. | Duration(in seconds) = 302 |
+Song Name = Vaaste. | Artists = Dhvani Bhanushali, Nikhil D’Souza. | Duration(in seconds) = 246 |
+Song Name = Kesariya. | Artists = Arijit Singh, Pritam. | Duration(in seconds) = 268 |
+Song Name = Apna Bana Le. | Artists = Arijit Singh. | Duration(in seconds) = 258 |
+Song Name = Nashe Si Chadh Gayi. | Artists = Arijit Singh, Caralisa Monteiro. | Duration(in seconds) = 216 |
+Song Name = Someone Like You. | Artists = Adele. | Duration(in seconds) = 285 |
+Song Name = Heeriye. | Artists = Arijit Singh, Jasleen Royal. | Duration(in seconds) = 213 |
+Song Name = Cheap Thrills. | Artists = Sia, Sean Paul. | Duration(in seconds) = 227 |
+Song Name = Believer. | Artists = Imagine Dragons. | Duration(in seconds) = 204 |
+Song Name = Sugar. | Artists = Maroon 5. | Duration(in seconds) = 235 |
+Song Name = Perfect. | Artists = Ed Sheeran. | Duration(in seconds) = 263 |
+Song Name = Kar Gayi Chull. | Artists = Badshah, Neha Kakkar. | Duration(in seconds) = 168 |
+Song Name = Galliyan. | Artists = Ankit Tiwari. | Duration(in seconds) = 278 |
+Song Name = Bom Diggy Diggy. | Artists = Zack Knight, Jasmin Walia. | Duration(in seconds) = 166 |
+Song Name = Sun Saathiya. | Artists = Priya Saraiya, Divya Kumar. | Duration(in seconds) = 242 |
+Song Name = Agar Tum Saath Ho. | Artists = Alka Yagnik, Arijit Singh. | Duration(in seconds) = 300 |
+Song Name = Jeene Laga Hoon. | Artists = Atif Aslam, Shreya Ghoshal. | Duration(in seconds) = 232 |
+Song Name = Raatan Lambiyan. | Artists = Jubin Nautiyal, Asees Kaur. | Duration(in seconds) = 222 |
+Song Name = Attention. | Artists = Charlie Puth. | Duration(in seconds) = 211 |
+Song Name = Sorry. | Artists = Justin Bieber. | Duration(in seconds) = 200 |
+Song Name = Let Me Love You. | Artists = DJ Snake, Justin Bieber. | Duration(in seconds) = 205 |
+Song Name = Faded. | Artists = Alan Walker. | Duration(in seconds) = 212 |
+Song Name = Something Just Like This. | Artists = The Chainsmokers, Coldplay. | Duration(in seconds) = 247 |
+Song Name = See You Again. | Artists = Wiz Khalifa, Charlie Puth. | Duration(in seconds) = 229 |
+Song Name = Heeriye (Reprise). | Artists = Arijit Singh. | Duration(in seconds) = 215 |

@@ -1,0 +1,154 @@
+Name = Yuvraj. | Password = Sneha. | Albums = 2
+Her[3]
+Song Name = Perfect. | Artists = Ed Sheeran. | Duration(in seconds) = 263 |
+Song Name = Kesariya. | Artists = Arijit Singh, Pritam. | Duration(in seconds) = 268 |
+Song Name = What Makes You Beautiful. | Artists = One Direction. | Duration(in seconds) = 220 |
+Me[2]
+Song Name = Preet Re. | Artists = Jasleen Royal. | Duration(in seconds) = 230 |
+Song Name = I Like Me Better. | Artists = Lauv. | Duration(in seconds) = 197 |
+Commands[89]
+Show All Albums
+Create a New Album
+Her
+Add a Song to an Album
+Her
+Perfect
+Add a Song to an Album
+Her
+Kesariya
+Create a New Album
+Me
+Add a Song to an Album
+Me
+Preet Re
+Add a Song to an Album
+Me
+I Like Me Better
+Add a Song to an Album
+Her
+What Makes You Beautiful
+Show All Albums
+Her
+Show All Albums
+Her
+Show All Albums
+Me
+Open Album
+Her
+Open Album
+Me
+EXIT
+Show Library
+Show All Albums
+Open Album
+Her
+Create a New Album
+Sample
+Add a song to an Album
+Add a Song to an Album
+Sample
+Perfect
+Open Album
+Sample
+Remove a Song from an Album
+Sample
+Perfect
+Open Album
+Sample
+Remove an Album
+Sample
+Show All Albums
+Show Library
+Play a Song
+Let Me Love You
+Play a Song
+Perfect
+Play a Song
+What Makes You Beautifull
+Play a Song
+What Makes You Beautiful
+Show Playlist
+Play Previous Song
+Play Previous Song
+Play Previous Song
+Play Next Song
+Play an Album
+Her
+Show Playlist
+Change Password
+Yuvraj
+Yuvraj
+Yuvraj
+Clear Playlist
+Show Playlist
+EXIT
+Show All Albums
+Open Album
+Her
+Open Album
+Me
+Play a Song
+Preet Re
+Play an Album
+Her
+Show Playlist
+Play Next SOng
+Play Next Song
+Play Previous Song
+EXIT
+------------
+Name = Sample. | Password = Sample. | Albums = 0
+Commands[24]
+Create a New Album
+Hello
+Open Album
+Hello
+Create a New Album
+HI
+Create a New Album
+YS
+Create a New Album
+WHY
+Show All Albums
+Remove an Album
+Hello
+Remove an Album
+HI
+Remove an Album
+MS
+Remove an Album
+YS
+Remove an Album
+WHY
+Show All Albums
+EXIT
+EXIT
+------------
+Name = Vidhi. | Password = PYVAS. | Albums = 1
+Her[1]
+Song Name = Zaalima. | Artists = Arijit Singh, Harshdeep Kaur. | Duration(in seconds) = 253 |
+Commands[23]
+Show Library
+Create a New Album
+Her
+Show All Albums
+Add a Song to an Album
+Her
+Zaalima
+Open Album
+Her
+Play a Song
+Zaalima
+Play a Song
+Kesariya
+Play a Song
+Shape Of You
+Play a Song
+Shape of You
+Show Playlist
+Play Previous Song
+Play Previous Song
+Play a Previous Song
+Play Previous Song
+EXIT
+------------
